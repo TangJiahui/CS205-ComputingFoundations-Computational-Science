@@ -99,7 +99,7 @@ int main ( void )
   shared ( b, count, count_max, g, r, x_max, x_min, y_max, y_min ) \
   private ( i, j, k, x, x1, x2, y, y1, y2 )
 {
-# pragma omp
+# pragma omp for
 
   for ( i = 0; i < m; i++ )
   {

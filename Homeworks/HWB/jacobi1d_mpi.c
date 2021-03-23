@@ -7,12 +7,33 @@
 /* --
  * Exchange ghost cell data with neighboring processors
  */
+
+/* rank: which job; 
+   size: total number of jobs;
+   u: array
+    */
 void ghost_exchange(double* u, int n, int rank, int size)
 {
     if (size == 1)
         return;
 
-    /* YOUR SOLUTION HERE */
+    MPI_Status status;
+    if (rank > 0) {
+        // Send to the job before us
+        MPI_Send(u+1, 1, MPI_DOUBLE, rank - 1, 2, MPI_COMM_WORLD);
+    }
+    if (rank < size - 1) {
+        // Send to the job after us
+        MPI_Send(u+n-2, 1, MPI_DOUBLE, rank + 1, 3, MPI_COMM_WORLD);
+    }
+    if (rank < size - 1) {
+        // Receive from the job after us
+        MPI_Recv(u+n-1, 1, MPI_DOUBLE, rank + 1, 2, MPI_COMM_WORLD, &status);
+    }
+    if (rank > 0) {
+        // Receive from the job before us
+        MPI_Recv(u, 1, MPI_DOUBLE, rank - 1, 3, MPI_COMM_WORLD, &status);
+    }
 }
 
 /* --
