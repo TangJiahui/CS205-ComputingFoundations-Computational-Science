@@ -1,0 +1,8 @@
+for file in `ls *txt` ; do
+    exec < $file
+    while read line
+    do
+        echo $file $line
+    done
+done
+

@@ -1,0 +1,162 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2513
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 1342-0txt \uc0\u65279 The Project Gutenberg EBook of Pride and Prejudice, by Jane Austen\
+1342-0txt \
+1342-0txt This eBook is for the use of anyone anywhere at no cost and with\
+1342-0txt almost no restrictions whatsoever. You may copy it, give it away or\
+1342-0txt re-use it under the terms of the Project Gutenberg License included\
+1342-0txt with this eBook or online at www.gutenberg.org\
+1342-0txt \
+1342-0txt \
+1342-0txt Title: Pride and Prejudice\
+1342-0txt \
+1342-0txt Author: Jane Austen\
+1342-0txt \
+1342-0txt Posting Date: August 26, 2008 [EBook #1342]\
+1342-0txt Release Date: June, 1998\
+1342-0txt Last Updated: March 10, 2018\
+1342-0txt \
+1342-0txt Language: English\
+1342-0txt \
+1342-0txt Character set encoding: UTF-8\
+1342-0txt \
+1342-0txt 1342-0txt 1661txt 2600-0txt 2701-0txt file1txt file2txt file_name_ii file_name_li.txt file_output.txt mapper.py reducer.py START OF THIS PROJECT GUTENBERG EBOOK PRIDE AND PREJUDICE ***\
+1342-0txt \
+1342-0txt \
+1342-0txt \
+1342-0txt \
+1342-0txt Produced by Anonymous Volunteers\
+1342-0txt \
+1342-0txt \
+1342-0txt \
+1342-0txt \
+1342-0txt \
+1342-0txt PRIDE AND PREJUDICE\
+1342-0txt \
+1342-0txt By Jane Austen\
+1342-0txt \
+1342-0txt \
+1342-0txt \
+1342-0txt Chapter 1\
+1342-0txt \
+1342-0txt \
+1342-0txt It is a truth universally acknowledged, that a single man in possession\
+1342-0txt of a good fortune, must be in want of a wife.\
+1342-0txt \
+1342-0txt However little known the feelings or views of such a man may be on his\
+1342-0txt first entering a neighbourhood, this truth is so well fixed in the minds\
+1342-0txt of the surrounding families, that he is considered the rightful property\
+1342-0txt of some one or other of their daughters.\
+1342-0txt \
+1342-0txt \'93My dear Mr. Bennet,\'94 said his lady to him one day, \'93have you heard that\
+1342-0txt Netherfield Park is let at last?\'94\
+1342-0txt \
+1342-0txt Mr. Bennet replied that he had not.\
+1342-0txt \
+1342-0txt \'93But it is,\'94 returned she; \'93for Mrs. Long has just been here, and she\
+1342-0txt told me all about it.\'94\
+1342-0txt \
+1342-0txt Mr. Bennet made no answer.\
+1342-0txt \
+1342-0txt \'93Do you not want to know who has taken it?\'94 cried his wife impatiently.\
+1342-0txt \
+1342-0txt \'93_You_ want to tell me, and I have no objection to hearing it.\'94\
+1342-0txt \
+1342-0txt This was invitation enough.\
+1342-0txt \
+1342-0txt \'93Why, my dear, you must know, Mrs. Long says that Netherfield is taken\
+1342-0txt by a young man of large fortune from the north of England; that he came\
+1342-0txt down on Monday in a chaise and four to see the place, and was so much\
+1342-0txt delighted with it, that he agreed with Mr. Morris immediately; that he\
+1342-0txt is to take possession before Michaelmas, and some of his servants are to\
+1342-0txt be in the house by the end of next week.\'94\
+1342-0txt \
+1342-0txt \'93What is his name?\'94\
+1342-0txt \
+1342-0txt \'93Bingley.\'94\
+1342-0txt \
+1342-0txt \'93Is he married or single?\'94\
+1342-0txt \
+1342-0txt \'93Oh! Single, my dear, to be sure! A single man of large fortune; four or\
+1342-0txt five thousand a year. What a fine thing for our girls!\'94\
+1342-0txt \
+1342-0txt \'93How so? How can it affect them?\'94\
+1342-0txt \
+1342-0txt \'93My dear Mr. Bennet,\'94 replied his wife, \'93how can you be so tiresome! You\
+1342-0txt must know that I am thinking of his marrying one of them.\'94\
+1342-0txt \
+1342-0txt \'93Is that his design in settling here?\'94\
+1342-0txt \
+1342-0txt \'93Design! Nonsense, how can you talk so! But it is very likely that he\
+1342-0txt _may_ fall in love with one of them, and therefore you must visit him as\
+1342-0txt soon as he comes.\'94\
+1342-0txt \
+1342-0txt \'93I see no occasion for that. You and the girls may go, or you may send\
+1342-0txt them by themselves, which perhaps will be still better, for as you are\
+1342-0txt as handsome as any of them, Mr. Bingley may like you the best of the\
+1342-0txt party.\'94\
+1342-0txt \
+1342-0txt \'93My dear, you flatter me. I certainly _have_ had my share of beauty, but\
+1342-0txt I do not pretend to be anything extraordinary now. When a woman has five\
+1342-0txt grown-up daughters, she ought to give over thinking of her own beauty.\'94\
+1342-0txt \
+1342-0txt \'93In such cases, a woman has not often much beauty to think of.\'94\
+1342-0txt \
+1342-0txt \'93But, my dear, you must indeed go and see Mr. Bingley when he comes into\
+1342-0txt the neighbourhood.\'94\
+1342-0txt \
+1342-0txt \'93It is more than I engage for, I assure you.\'94\
+1342-0txt \
+1342-0txt \'93But consider your daughters. Only think what an establishment it would\
+1342-0txt be for one of them. Sir William and Lady Lucas are determined to\
+1342-0txt go, merely on that account, for in general, you know, they visit no\
+1342-0txt newcomers. Indeed you must go, for it will be impossible for _us_ to\
+1342-0txt visit him if you do not.\'94\
+1342-0txt \
+1342-0txt \'93You are over-scrupulous, surely. I dare say Mr. Bingley will be very\
+1342-0txt glad to see you; and I will send a few lines by you to assure him of my\
+1342-0txt hearty consent to his marrying whichever he chooses of the girls; though\
+1342-0txt I must throw in a good word for my little Lizzy.\'94\
+1342-0txt \
+1342-0txt \'93I desire you will do no such thing. Lizzy is not a bit better than the\
+1342-0txt others; and I am sure she is not half so handsome as Jane, nor half so\
+1342-0txt good-humoured as Lydia. But you are always giving _her_ the preference.\'94\
+1342-0txt \
+1342-0txt \'93They have none of them much to recommend them,\'94 replied he; \'93they are\
+1342-0txt all silly and ignorant like other girls; but Lizzy has something more of\
+1342-0txt quickness than her sisters.\'94\
+1342-0txt \
+1342-0txt \'93Mr. Bennet, how _can_ you abuse your own children in such a way? You\
+1342-0txt take delight in vexing me. You have no compassion for my poor nerves.\'94\
+1342-0txt \
+1342-0txt \'93You mistake me, my dear. I have a high respect for your nerves. They\
+1342-0txt are my old friends. I have heard you mention them with consideration\
+1342-0txt these last twenty years at least.\'94\
+1342-0txt \
+1342-0txt \'93Ah, you do not know what I suffer.\'94\
+1342-0txt \
+1342-0txt \'93But I hope you will get over it, and live to see many young men of four\
+1342-0txt thousand a year come into the neighbourhood.\'94\
+1342-0txt \
+1342-0txt \'93It will be no use to us, if twenty such should come, since you will not\
+1342-0txt visit them.\'94\
+1342-0txt \
+1342-0txt \'93Depend upon it, my dear, that when there are twenty, I will visit them\
+1342-0txt all.\'94\
+1342-0txt \
+1342-0txt Mr. Bennet was so odd a mixture of quick parts, sarcastic humour,\
+1342-0txt reserve, and caprice, that the experience of three-and-twenty years had\
+1342-0txt been insufficient to make his wife understand his character. _Her_ mind\
+1342-0txt was less difficult to develop. She was a woman of mean understanding,\
+1342-0txt little information, and uncertain temper. When she was discontented,\
+1342-0txt she fancied herself nervous. The business of her life was to get her\
+1342-0txt daughters married; its solace was visiting and news.\
+1342-0txt \
+1342-0txt \
+1342-0txt \
+1342-0txt Chapter 2}
